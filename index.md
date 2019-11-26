@@ -9,5 +9,5 @@ description: This repository demonstrates how to use Forestry's Snippets to crea
 This repository demonstrates how to use Forestry's [Snippets](https://forestry.io/docs/settings/snippets/) to create rich layouts.
 
 <div class="embed-responsive embed-responsive-16by9">
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/TToomEilKs8" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/lUd9SQCkDj0" allowfullscreen></iframe>
 </div>
